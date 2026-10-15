@@ -1,0 +1,24 @@
+{
+  "best_params": {
+    "xgbregressor__colsample_bytree": 1.0,
+    "xgbregressor__learning_rate": 0.05,
+    "xgbregressor__max_depth": 5,
+    "xgbregressor__n_estimators": 200,
+    "xgbregressor__subsample": 0.8
+  },
+  "baseline": {
+    "rmse": 598.2273432769264,
+    "mae": 469.95471171305945,
+    "r2": 0.6863543529821999
+  },
+  "train": {
+    "rmse": 234.36849939665547,
+    "mae": 96.5750795928041,
+    "r2": 0.9515638313649183
+  },
+  "test": {
+    "rmse": 285.876184038325,
+    "mae": 121.1529692534617,
+    "r2": 0.9283753194178245
+  }
+}
